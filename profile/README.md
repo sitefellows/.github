@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
-    <img src="./logo-light.svg" alt="sitefellows" width="420">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sitefellows/.github/main/profile/logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/sitefellows/.github/main/profile/logo-light.svg" alt="sitefellows" width="420">
   </picture>
 </p>
 
